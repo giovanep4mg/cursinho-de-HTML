@@ -1,0 +1,476 @@
+@media screen and (max-width: 2561px) {
+  
+  html{
+      margin: 0px;
+      padding: 0px;
+      width: 100%;
+    }
+    
+    body{
+        box-sizing: content-box;
+        background-image: url('./imagem-final/celebracao-da-vespera-de-ano-novo-com-decoracoes.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+        
+    }
+
+
+    .conteudo-pagina{
+        padding-top: 0em;
+    }
+    
+    .container-titulo{
+      margin-top: -10em;
+    }
+    
+    .titulo{
+      width: -webkit-fill-available;
+      font-family: fangsong;
+      font-size: 20em;
+      text-align: center;
+      color: black;
+      text-shadow: 8px 8px 8px rgba(247, 250, 243, 0.836);
+    }
+    
+    .container-mensagem{
+      font-family: fangsong;
+      color: black;
+      text-shadow: 8px 8px 8px rgba(133, 214, 27, 0.836);
+      text-align: center;
+      margin-top: -10em;
+    }
+    
+    .mensagem{
+      font-size: 8em;
+      margin-top: 0em;
+      padding: 0em;
+    }
+    
+    .mensagem2{
+      font-size: 6.5em;
+      margin-top: 3em;
+      text-align: center;
+    }
+    
+    .container-redes {
+      width: -webkit-fill-available;
+      padding-left: 47em;
+      padding-top: 5em;
+      text-align: center;
+      }
+
+      .container-logos {
+        display: flex;
+      }
+
+      .link-facebook{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+
+      .link-instagram{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+
+      .link-linkedin{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+      
+      .logo-facebook {
+        width: 30%;
+      }
+    
+      .logo-facebook:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .logo-instagram {
+        width: 30%;
+      }
+    
+      .logo-instagram:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .logo-linkedin {
+        width: 30%;
+      }
+    
+      .logo-linkedin:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .container-footer {
+        text-align: center;
+      }
+    
+      .copyrigth {
+        font-size: 3em;
+        color: rgb(12, 12, 12);
+      }
+}
+
+@media screen and (max-width: 1441px) {
+  
+    .titulo{
+      font-size: 10em;
+      margin-top: 1em;
+    }
+    
+    .container-mensagem{
+      margin-top: -5em;
+    }
+    
+    .mensagem{
+      font-size: 5em;
+    }
+    
+    .mensagem2{
+      font-size: 4.5em;
+      margin-top: 3em;
+    }
+    
+    .container-redes {
+      width: 100%;
+      padding-left: 0em;
+      padding-top: 0em;
+    }
+
+      .container-logos {
+        display: flex;
+      }
+
+      .link-facebook{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+
+      .link-instagram{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+
+      .link-linkedin{
+        text-align: center;
+        margin: 0em;
+        padding: 0em;
+      }
+      
+      .logo-facebook {
+        width: 30%;
+      }
+    
+      .logo-facebook:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .logo-instagram {
+        width: 30%;
+      }
+    
+      .logo-instagram:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .logo-linkedin {
+        width: 30%;
+      }
+    
+      .logo-linkedin:hover {
+        width: 35%;
+        border: 15px solid #dec129;
+        border-radius: 52% 52% 52% 52%;
+      }
+    
+      .container-footer {
+        text-align: center;
+      }
+    
+      .copyrigth {
+        font-size: 3em;
+        color: rgb(12, 12, 12);
+      }
+}
+
+@media screen and (max-width: 1025px) {
+
+  body{
+    background-size: 90em 75em;
+    background-position: top;
+  }
+  
+  .titulo{
+    font-size: 10em;
+    margin-top: 1em;
+  }
+  
+  .container-mensagem{
+    margin-top: -5em;
+  }
+  
+  .mensagem{
+    font-size: 4.5em;
+  }
+  
+  .mensagem2{
+    font-size: 4em;
+    margin-top: 2em;
+  }
+  
+  .container-redes {
+    padding-top: 1em;
+  }
+
+    .container-logos {
+      display: flex;
+    }
+
+    .link-facebook{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+
+    .link-instagram{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+
+    .link-linkedin{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+    
+    .logo-facebook {
+      width: 30%;
+    }
+  
+    .logo-facebook:hover {
+      width: 35%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .logo-instagram {
+      width: 30%;
+    }
+  
+    .logo-instagram:hover {
+      width: 35%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .logo-linkedin {
+      width: 30%;
+    }
+  
+    .logo-linkedin:hover {
+      width: 35%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .container-footer {
+      padding-top: 5em;
+    }
+  
+    .copyrigth {
+      font-size: 3em;
+    }
+}
+
+@media  screen  and (max-width: 769px) {
+
+  body{
+    background-size: 80em 78em;
+    background-position: top;
+  }
+  
+
+
+  .container-footer {
+    padding-top: 4em;
+  }
+
+  .copyrigth {
+    font-size: 2em;
+    color: rgb(12, 12, 12);
+    margin: 0em;
+  }
+
+}
+
+
+@media screen and (max-width: 426px) {
+
+  body{
+    background-size: 44em 57em;
+    background-position: top;
+  }
+  
+  .titulo{
+    font-size: 5em;
+    margin-top: 2.5em;
+  }
+  
+  .container-mensagem{
+    margin-top: -3em;
+  }
+  
+  .mensagem{
+    font-size: 3em;
+    padding-top: 1em;
+  }
+  
+  .mensagem2{
+    font-size: 2em;
+    margin-top: 3em;
+  }
+  
+  .container-redes {
+    padding-top: 2em;
+  }
+
+    .container-logos {
+      display: flex;
+    }
+
+    .link-facebook{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+
+    .link-instagram{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+
+    .link-linkedin{
+      text-align: center;
+      margin: 0em;
+      padding: 0em;
+    }
+    
+    .logo-facebook {
+      width: 40%;
+    }
+  
+    .logo-facebook:hover {
+      width: 43%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .logo-instagram {
+      width: 40%;
+    }
+  
+    .logo-instagram:hover {
+      width: 43%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .logo-linkedin {
+      width: 40%;
+    }
+  
+    .logo-linkedin:hover {
+      width: 43%;
+      border: 15px solid #dec129;
+      border-radius: 52% 52% 52% 52%;
+    }
+  
+    .container-footer {
+      padding-top: 2em;
+    }
+  
+    .copyrigth {
+      font-size: 1.3em;
+    }
+}
+
+@media screen and (max-width: 321px) {
+  body{
+    background-size: 32em 43em;
+    background-position: top;
+  }
+
+  .container-titulo {
+    margin-top: -11em;
+  }
+  
+  .titulo {
+    font-size: 3.5em;
+    margin-top: 3.5em;
+  }
+
+  .mensagem {
+    font-size: 2em;
+    padding-top: 2em;
+  }
+
+  .mensagem2 {
+    font-size: 1.5em;
+    margin-top: 2em;
+  }
+
+  .logo-facebook {
+    width: 50%;
+  }
+
+  .logo-facebook:hover {
+    width: 53%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .logo-instagram {
+    width: 50%;
+  }
+
+  .logo-instagram:hover {
+    width: 53%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .logo-linkedin {
+    width: 50%;
+  }
+
+  .logo-linkedin:hover {
+    width: 53%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+
+
+}

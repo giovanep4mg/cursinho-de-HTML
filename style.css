@@ -1,0 +1,687 @@
+/*  */
+@media screen and (max-width: 2561px) {
+  html {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    margin: 0em;
+    padding: 0em;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+
+  body {
+    box-sizing: border-box;
+    background-color: #00bcd41f;
+    padding-top: 1em;
+  }
+  .container-titulo {
+    margin-top: 0em;
+    display: flex;
+    align-items: center;
+    padding: 1em;
+  }
+
+  .imagem-logo {
+    font-size: 11em;
+    padding-left: 1em;
+  }
+
+  .titulo {
+    font-size: 11em;
+    padding-left: 1em;
+  }
+
+  .container-boa {
+    width: -webkit-fill-available;
+    margin: 0em;
+    padding: 5.3em;
+    padding-top: 0.2em;
+    background: #4ad21e4a;
+    border-radius: 10% 10% 10% 10%;
+    padding-bottom: 0em;
+  }
+
+  .subtitulo {
+    font-family: cursive;
+    font-size: 4em;
+    text-align: center;
+  }
+
+  .container-link-entrar {
+    text-align: center;
+    background: #dec128d4;
+    padding: 5em;
+    border-radius: 22% 85% 25% 90%;
+  }
+  .link-entrar {
+    font-family: fantasy;
+    font-size: 5em;
+  }
+
+  .container-redes {
+    margin: 0em;
+    padding: 1.3em;
+  }
+  .contato-redes-sociais {
+    font-family: math;
+    font-size: 4em;
+    padding-left: 1em;
+    text-decoration: underline;
+  }
+  .container-logos {
+    display: flex;
+    padding-left: 35em;
+  }
+  .link-facebook {
+  }
+
+  .logo-facebook {
+    width: 30%;
+  }
+
+  .logo-facebook:hover {
+    width: 35%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+
+  .logo-instagram {
+    width: 30%;
+  }
+
+  .logo-instagram:hover {
+    width: 35%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 30%;
+  }
+
+  .logo-linkedin:hover {
+    width: 35%;
+    border: 15px solid #dec129;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    margin: 0em;
+    padding: 1.3em;
+  }
+
+  .copyrigth {
+    text-align: center;
+    font-family: fangsong;
+    font-size: 4em;
+    padding-bottom: 2em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 1441px) {
+  html {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  body {
+    padding-top: 0em;
+  }
+  .container-titulo {
+    margin-top: 0em;
+    padding: 0em;
+  }
+  .imagem-logo {
+    padding: 0em;
+    margin-right: -0.5em;
+    padding-top: 0.3em;
+  }
+  .imagem-logo-inicio {
+    width: 70%;
+  }
+
+  .titulo {
+    font-size: 6.5em;
+    padding-left: 0em;
+  }
+
+  .container-boa {
+    padding-top: 0.2em;
+    border-radius: 22% 30% 22% 30%;
+    padding-bottom: 0em;
+  }
+
+  .subtitulo {
+    font-size: 1.8em;
+  }
+
+  .container-link-entrar {
+    border-radius: 25% 90% 25% 90%;
+  }
+  .link-entrar {
+    font-size: 4em;
+  }
+
+  .container-redes {
+    padding: 0.8em;
+  }
+  .contato-redes-sociais {
+    font-size: 3em;
+  }
+  .container-logos {
+    padding-left: 15em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 25%;
+  }
+  .logo-facebook:hover {
+    width: 30%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 25%;
+  }
+  .logo-instagram:hover {
+    width: 30%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 25%;
+  }
+  .logo-linkedin:hover {
+    width: 30%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding: 2.3em;
+    padding-top: 5em;
+  }
+  .copyrigth {
+    font-size: 2em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 1025px) {
+  html {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  body {
+    padding-top: 0em;
+  }
+  .container-titulo {
+    margin-top: -1em;
+  }
+  .imagem-logo {
+    padding-left: 0.2em;
+  }
+  .imagem-logo-inicio {
+    width: 70%;
+  }
+
+  .titulo {
+    font-size: 5em;
+  }
+
+  .container-boa {
+    padding-top: 1.2em;
+    border-radius: 38% 38% 60% 60%;
+    padding-bottom: 1em;
+  }
+
+  .subtitulo {
+    font-size: 1.6em;
+  }
+
+  .container-link-entrar {
+    border-radius: 20% 100% 20% 100%;
+  }
+  .link-entrar {
+    font-size: 3em;
+  }
+
+  .container-redes {
+    padding: 0.8em;
+  }
+  .contato-redes-sociais {
+    font-size: 2.5em;
+  }
+  .container-logos {
+    padding-left: 10em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 30%;
+  }
+  .logo-facebook:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 30%;
+  }
+  .logo-instagram:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 30%;
+  }
+  .logo-linkedin:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+  .copyrigth {
+    font-size: 2em;
+    padding-bottom: 0em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 769px) {
+  html {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  body {
+    padding-top: 0em;
+  }
+  /* seção titulo e imagem de logo  */
+  .container-titulo {
+    margin-top: -2em;
+  }
+  .imagem-logo {
+    padding-left: 0.2em;
+    margin-right: -1.5em;
+  }
+  .imagem-logo-inicio {
+    width: 40%;
+  }
+
+  .titulo {
+    font-size: 4em;
+  }
+
+  /* seção texto bem vindo */
+  .container-boa {
+    padding-top: 1em;
+  }
+
+  .subtitulo {
+    font-size: 1.2em;
+  }
+
+  /* secao link para a aula */
+  .container-link-entrar {
+    border-radius: 20% 100% 26% 100%;
+    width: 60%;
+    margin-left: 5em;
+  }
+  .link-entrar {
+    font-size: 1.9em;
+  }
+
+  /* secao contato links redes sociais */
+  .container-redes {
+    padding: 0em;
+  }
+  .contato-redes-sociais {
+    font-size: 2em;
+  }
+
+  /* secao links redes sociais */
+  .container-logos {
+    padding-left: 9em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 30%;
+  }
+  .logo-facebook:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 30%;
+  }
+  .logo-instagram:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 30%;
+  }
+  .logo-linkedin:hover {
+    width: 35%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+  .copyrigth {
+    font-size: 2em;
+    padding-bottom: 0em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 426px) {
+  html {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  body {
+    padding-top: 0em;
+  }
+  /* seção titulo e imagem de logo  */
+  .container-titulo {
+    margin-top: -4em;
+  }
+  .imagem-logo {
+    padding-left: 0em;
+    margin-right: -1.6em;
+  }
+  .imagem-logo-inicio {
+    width: 30%;
+  }
+
+  .titulo {
+    font-size: 2.3em;
+  }
+
+  /* seção texto bem vindo */
+  .container-boa {
+    padding-top: 1em;
+    border-radius: 35% 30% 36% 30%;
+  }
+
+  .subtitulo {
+    font-size: 1em;
+  }
+
+  /* secao link para a aula */
+  .container-link-entrar {
+    border-radius: 28% 100% 40% 100%;
+    width: 45%;
+    margin-left: 2.5em;
+  }
+  .link-entrar {
+    font-size: 1.4em;
+  }
+
+  /* secao contato links redes sociais */
+  .container-redes {
+    padding: 0em;
+  }
+  .contato-redes-sociais {
+    font-size: 1.7em;
+  }
+
+  /* secao links redes sociais */
+  .container-logos {
+    padding-left: 5em;
+    padding-top: 1em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 40%;
+  }
+  .logo-facebook:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 40%;
+  }
+  .logo-instagram:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 40%;
+  }
+  .logo-linkedin:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+  .copyrigth {
+    font-size: 1em;
+    padding-bottom: 0.5em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 376px) {
+  html {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
+  body {
+    padding-top: 0em;
+  }
+  /* seção titulo e imagem de logo  */
+  .container-titulo {
+    margin-top: -3em;
+  }
+  .imagem-logo {
+    padding-left: 0em;
+    margin-right: -1em;
+  }
+  .imagem-logo-inicio {
+    width: 38%;
+  }
+
+  .titulo {
+    font-size: 2em;
+  }
+
+  /* seção texto bem vindo */
+  .container-boa {
+    padding-top: 0.5em;
+    border-radius: 14% 18% 14% 18%;
+    padding: 1em;
+  }
+
+  .subtitulo {
+    font-size: 0.8em;
+  }
+
+  /* secao link para a aula */
+  .container-link-entrar {
+    border-radius: 46% 79% 50% 79%;
+    width: 45%;
+    margin-left: 1em;
+  }
+  .link-entrar {
+    font-size: 1.4em;
+  }
+
+  /* secao contato links redes sociais */
+  .container-redes {
+    padding: 0em;
+  }
+  .contato-redes-sociais {
+    font-size: 1.3em;
+  }
+
+  /* secao links redes sociais */
+  .container-logos {
+    padding-left: 3em;
+    padding-top: 2em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 40%;
+  }
+  .logo-facebook:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 40%;
+  }
+  .logo-instagram:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 40%;
+  }
+  .logo-linkedin:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+  .copyrigth {
+    font-size: 0.9em;
+  }
+} /* fim media screen */
+
+/*  */
+@media screen and (max-width: 321px) {
+  
+  body {
+    padding-top: 0em;
+  }
+  /* seção titulo e imagem de logo  */
+  .container-titulo {
+    margin-top: -3em;
+  }
+  .imagem-logo {
+    padding-left: 0em;
+    margin-right: -1em;
+  }
+  .imagem-logo-inicio {
+    width: 38%;
+  }
+
+  .titulo {
+    font-size: 2em;
+  }
+
+  /* seção texto bem vindo */
+  .container-boa {
+    padding-top: 0.5em;
+    border-radius: 14% 18% 14% 18%;
+    padding: 1em;
+  }
+
+  .subtitulo {
+    font-size: 0.8em;
+  }
+
+  /* secao link para a aula */
+  .container-link-entrar {
+    border-radius: 46% 79% 50% 79%;
+    width: 45%;
+    margin-left: 1em;
+  }
+  .link-entrar {
+    font-size: 1.4em;
+  }
+
+  /* secao contato links redes sociais */
+  .container-redes {
+    padding: 0em;
+  }
+  .contato-redes-sociais {
+    font-size: 1.3em;
+  }
+
+  /* secao links redes sociais */
+  .container-logos {
+    padding-left: 3em;
+    padding-top: 2em;
+  }
+  .link-facebook {
+  }
+  .logo-facebook {
+    width: 40%;
+  }
+  .logo-facebook:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-instagram {
+  }
+  .logo-instagram {
+    width: 40%;
+  }
+  .logo-instagram:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .link-linkedin {
+  }
+  .logo-linkedin {
+    width: 40%;
+  }
+  .logo-linkedin:hover {
+    width: 45%;
+    border-radius: 52% 52% 52% 52%;
+  }
+
+  .container-footer {
+    padding-top: 4em;
+  }
+  .copyrigth {
+    font-size: 0.9em;
+  }
+} /* fim media screen */
+
